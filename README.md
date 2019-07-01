@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Init
+
+```sh
+$ brew update
+$ brew install nodejs
+$ brew install yarn
+$ npm install -g create-react-app
+$ create-react-app hello-react
+$ cd hello-react
+$ yarn start
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
